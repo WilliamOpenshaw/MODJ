@@ -59,6 +59,8 @@ public class tableManager : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        // set width to 0
+        
         tableHeight = 1;
         tableWidth = 1;
         cellNumber = 1;
